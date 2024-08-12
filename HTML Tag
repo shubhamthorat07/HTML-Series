@@ -1,2 +1,8 @@
 We have seen <! DOCTYPE html> uses.
 It tells the web browser what type of file it carries.
+
+
+
+Now we will see the first tag of HTML.
+<html>
+This tag itself is the first html tag of any html document.
