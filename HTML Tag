@@ -6,3 +6,17 @@ It tells the web browser what type of file it carries.
 Now we will see the first tag of HTML.
 <html>
 This tag itself is the first html tag of any html document.
+
+However, the other html tags are enclosed within two html tags.
+
+          Example :
+
+                    <HTML>
+
+
+
+
+                    </HTML>
+
+
+
