@@ -1,3 +1,7 @@
 Now, we will see about the " head " tag in HTML.
 
 In the "head" tag of HTML, the title of the webpage is usually written.
+
+But to write this title, we use another html tag.
+
+That tag is known as "title" tag.
