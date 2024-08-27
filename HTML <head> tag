@@ -5,3 +5,30 @@ In the "head" tag of HTML, the title of the webpage is usually written.
 But to write this title, we use another html tag.
 
 That tag is known as "title" tag.
+
+
+The code of HTML <head> tag is :
+
+
+
+<!DOCTYPE html>
+
+
+
+<head>
+
+<title>     </title>
+
+</head>
+
+
+
+<body>
+
+
+
+</body>
+
+
+
+</html>
