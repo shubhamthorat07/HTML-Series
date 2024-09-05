@@ -5,3 +5,31 @@ The <title> tag in HTML is usually written in the <head> tag of HTML document.
 The <title> tag adds an importance of writing the title of the webpage.
 
 This title of the webpage can be seen at the top of the Web Browsers Tab.
+
+
+
+The code of HTML <title> tag is :
+
+
+
+<!DOCTYPE html>
+
+
+
+<head>
+
+<title>  The title of the webpage goes here   </title>
+
+</head>
+
+
+
+<body>
+
+
+
+</body>
+
+
+
+</html>
