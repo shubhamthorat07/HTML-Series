@@ -1,3 +1,27 @@
-Now we will see H1 tag in HTML.
-The H1 tag in HTML denotes the heading tag with largest heading.
+Now we will see " h1 " tag in HTML.
+The h1 tag in HTML denotes the heading tag with largest heading.
 There are total Six heading tags in HTML.
+
+We will see how to write <h1> tag in HTML.
+
+<!DOCTYPE HTML>
+
+<head>
+      <title>  Title of the page  </title>
+</head>
+
+
+<body>
+
+
+
+  <h1> This is the heading of the webpage </h1>
+
+
+</body>
+
+</html>
+
+
+
+
